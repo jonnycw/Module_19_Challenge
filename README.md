@@ -37,3 +37,4 @@ The "Transactions" tab has a list of transactions using your blockchain environm
 <img width="1200" alt="Ganache_Transaction" src="https://github.com/jonnycw/Module_19_Challenge/assets/120538932/d3e1c834-0ab0-448c-9df3-26218ae80cbe">
 
 The "Block" tab has a list of all blocks made in your blockchain environment. If you click the block we just made, you can see the history of the transaction.
+<img src="Images/Block31.png">
